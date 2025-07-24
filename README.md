@@ -3,9 +3,7 @@
 <h3 align="center">🚀 AI Innovator | DevOps Enthusiast | Anime Fan 🌟</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=Crafting+AI-driven+solutions+✨;Building+seamless+DevOps+pipelines+🔧;Bringing+Anime+characters+to+life+🎌;Const
-</p>
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=Crafting+AI-driven+solutions+✨;Building+seamless+DevOps+pipelines+🔧;Bringing+Anime+characters+to+life+🎌;Constantly+learning+and+growing+📚" alt="Animated Typing SVG" />
 <img align="right" alt="AI Gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ---
