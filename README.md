@@ -1,71 +1,75 @@
 <h1 align="center">Hi 👋, I'm Ayesha Maqbool</h1>
-<h3 align="center">Generative AI & DevOps Enthusiast 🚀 | Innovator & Creator ✨</h3>
+
+<h3 align="center">🚀 AI Innovator | DevOps Enthusiast | Anime Fan 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Generative+AI+Researcher+🤖;DevOps+Specialist+☁️;Anime+Enthusiast+🎌;Continuous+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=Crafting+AI-driven+solutions+✨;Building+seamless+DevOps+pipelines+🔧;Bringing+Anime+characters+to+life+🎌;Constantly+learning+and+growing+📚" alt="Animated Typing SVG" />
 </p>
 
 <img align="right" alt="AI Gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ---
 
-### 🚧 Currently Working On
+### 🔥 Current Projects
 
-* 🌐 **Large Language Models (LLMs)**: Developing fine-tuned language models
-* 💡 **Generative AI Solutions**: Innovative AI-driven projects and automation tools
-* 🏠 **KiraayePay**: A smart rental space management system
-* 🔐 **Automated Web Vulnerability Detection**: Enhancing security for web applications
-* 🍳 **Voice-Based Recipe Generator**: Simplifying cooking with conversational AI
-* 🎙️ **Anime Voice Changer**: Imitate voices of your favorite anime characters
-
----
-
-### 🌱 Currently Exploring
-
-* 🔥 **React Native** for intuitive mobile apps
-* 🧠 **PyTorch** for NLP and Deep Learning
-* 🚀 Advanced **Generative AI and Prompt Engineering** techniques
+* 🤖 **Advanced LLMs:** Developing fine-tuned Large Language Models
+* 🌐 **Generative AI Toolkit:** Innovative AI solutions for complex problems
+* 🏡 **KiraayePay:** Smart and efficient rental management platform
+* 🔐 **Auto Web Vulnerability Detector:** Automating security checks for robust web apps
+* 🥘 **Voice Recipe App:** Conversational AI for hassle-free cooking
+* 🎤 **Anime Voice Changer:** Transform voices into iconic anime characters
 
 ---
 
-### 💬 Let's Talk About
+### 📖 Currently Learning
 
-* ⚙️ **DevOps**: Docker, Kubernetes, CI/CD, Istio, Helm
-* 🤖 **Generative AI**: GPTs, LangChain, Hugging Face, Fine-Tuning
-* ☁️ **Cloud Technologies & Microservices**: AWS, Azure, GCP
+* 📱 **React Native:** Cross-platform mobile app development
+* 🧠 **PyTorch:** NLP and Deep Learning advancements
+* 🚀 **Generative AI:** Advanced prompt engineering and applications
 
 ---
 
-### 📊 My GitHub Stats
+### 💬 Talk to Me About
+
+* ⚙️ **DevOps Magic:** Docker, Kubernetes, CI/CD, Istio
+* 🤖 **AI Wonders:** GPT Models, Hugging Face, LangChain
+* ☁️ **Cloud Innovations:** AWS, Azure, Microservices
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha1829&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayesha1829&theme=monokai&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha1829&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha1829&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1829&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha1829&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1829&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Toolbox
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,docker,kubernetes,aws,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,docker,kubernetes,aws,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📫 Get in Touch
+### 📬 Let's Connect
 
 * 📧 **Email:** [ayeshamaqbol2004@outlook.com](mailto:ayeshamaqbol2004@outlook.com)
 * 🌐 **LinkedIn:** [Ayesha Maqbool](https://www.linkedin.com/in/ayesmaq)
 
 ---
 
-### 🎯 Fun Fact
+### 🎯 Fun Facts
 
-* 🌸 I am an anime lover who enjoys blending AI with creativity!
+* 🌸 Anime lover who merges AI tech with creativity!
+* 🎧 Always exploring the intersection of tech, storytelling, and art.
 
 ---
 
@@ -74,5 +78,5 @@
 </p>
 
 <p align="center">
-  ⭐ <em>Let's build something amazing together!</em> ⭐
+  ✨ <em>Creating magic through technology and imagination!</em> ✨
 </p>
